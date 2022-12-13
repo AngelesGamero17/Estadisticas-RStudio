@@ -1,0 +1,27 @@
+{
+    "id": "F5EE9B27",
+    "path": "D:/Tarea/ejecucion_modelo/ejecucion_modelo.R",
+    "project_path": "ejecucion_modelo.R",
+    "type": "r_source",
+    "hash": "722234654",
+    "contents": "",
+    "dirty": false,
+    "created": 1667578106693.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "3,0",
+        "scrollLine": "1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1667577298,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1667577298,
+    "read_only": false,
+    "read_only_alternatives": []
+}
